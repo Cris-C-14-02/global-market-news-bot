@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+node_modules/
+data/
+logs/
+*.log
+collector-progress*
+collector-batch-progress*
+.DS_Store
+Thumbs.db
+tests/data/search-probes/

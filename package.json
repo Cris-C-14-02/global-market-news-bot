@@ -1,0 +1,18 @@
+{
+  "name": "global-market-news-bot",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "全球市场资讯自动化机器人个人作品集展示版 Replica",
+  "scripts": {
+    "start": "node automation/run-news-bot.mjs",
+    "test:collector": "node tests/test-baidu-collector.mjs",
+    "test:processor": "node tests/test-news-processing.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}

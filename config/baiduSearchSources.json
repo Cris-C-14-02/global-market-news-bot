@@ -1,0 +1,18 @@
+[
+  { "region": "东南亚", "country": "泰国", "aliases": ["泰国"] },
+  { "region": "东南亚", "country": "印度尼西亚", "aliases": ["印度尼西亚", "印尼"] },
+  { "region": "东南亚", "country": "马来西亚", "aliases": ["马来西亚"] },
+  { "region": "中东", "country": "阿联酋", "aliases": ["阿联酋", "阿拉伯联合酋长国"] },
+  { "region": "中东", "country": "沙特阿拉伯", "aliases": ["沙特阿拉伯", "沙特"] },
+  { "region": "大洋洲", "country": "澳大利亚", "aliases": ["澳大利亚", "澳洲"] },
+  { "region": "欧洲", "country": "英国", "aliases": ["英国"] },
+  { "region": "欧洲", "country": "德国", "aliases": ["德国"] },
+  { "region": "欧洲", "country": "意大利", "aliases": ["意大利"] },
+  { "region": "欧洲", "country": "葡萄牙", "aliases": ["葡萄牙"] },
+  { "region": "欧洲", "country": "西班牙", "aliases": ["西班牙"] },
+  { "region": "俄罗斯及独联体", "country": "俄罗斯", "aliases": ["俄罗斯"] },
+  { "region": "俄罗斯及独联体", "country": "哈萨克斯坦", "aliases": ["哈萨克斯坦"] },
+  { "region": "拉美", "country": "巴西", "aliases": ["巴西"] },
+  { "region": "拉美", "country": "墨西哥", "aliases": ["墨西哥"] }
+]
+
